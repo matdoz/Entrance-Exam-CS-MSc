@@ -17,6 +17,6 @@ Find out, which is the most frequent length for lucky series. If there are more 
 
 ### This version is slightly modified
 This version is modified to read the input from a file for easier testing. <br>
-Run the script with (from wihtin the folder)
+Run the script with (from within the folder)
 ```
 python3 Dice.py
